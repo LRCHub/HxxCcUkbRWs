@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "おもちゃ帝国",
+  "base_artist": "NEE",
+  "createdAt": "2025-12-13T10:51:25.791750Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "おもちゃ帝国",
+      "artist": "NEE",
+      "has_synced": true,
+      "path": "select/01_おもちゃ帝国_NEE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おもちゃ帝国",
+      "artist": "NEE",
+      "has_synced": false,
+      "path": "select/pl_01_おもちゃ帝国_NEE.txt"
+    }
+  ]
+}
